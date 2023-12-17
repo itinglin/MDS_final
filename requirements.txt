@@ -4,3 +4,6 @@ numpy
 plotly
 joblib
 openpyxl
+xgboost
+sklearn.linear_model
+sklearn.ensemble

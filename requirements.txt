@@ -5,6 +5,4 @@ plotly
 joblib
 openpyxl
 xgboost
-sklearn
-sklearn.linear_model
-sklearn.ensemble
+scikit-learn

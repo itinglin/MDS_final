@@ -4,10 +4,10 @@ import plotly.graph_objects as go
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.ensemble import RandomForestClassifier
-from imblearn.over_sampling import SMOTE
-from sklearn.model_selection import StratifiedKFold, GridSearchCV
-from sklearn.metrics import recall_score, precision_score, f1_score, accuracy_score
+#from sklearn.ensemble import RandomForestClassifier
+#from imblearn.over_sampling import SMOTE
+#from sklearn.model_selection import StratifiedKFold, GridSearchCV
+#from sklearn.metrics import recall_score, precision_score, f1_score, accuracy_score
 from prediction import predict, predict_lr, predict_xgb
 
 # Load the data
